@@ -17,7 +17,7 @@ npm install
 GitHub CLI
 
 ```sh
-gh repo clone MarcosDevBr/CaseDesenvolvedorFrontEnd
+git clone https://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@github.com/MarcosDevBr/CaseDesenvolvedorFrontEnd.git
 ```
 
 ## 👨🏾‍💻 Techs
