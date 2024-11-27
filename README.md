@@ -34,9 +34,9 @@ gh repo clone MarcosDevBr/CaseDesenvolvedorFrontEnd
 
 **Marcos Augusto**
 
-* LinkedIn: [@marcosDevBr](www.linkedin.com/in/marcos-augusto-74263b197)
-* Instagram: [@marcosDevBr](https://www.instagram.com/developer_marcos/)
-* Github: [@marcosDevBr](https://github.com/MarcosDevBr)
+* LinkedIn: [Check out my LinkedIn profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+* Instagram: [Follow me on Instagram](https://www.instagram.com/developer_marcos/)
+* Github: [@MarcosDevBr](https://github.com/MarcosDevBr)
 
 ## 🤝 Contributing
 
